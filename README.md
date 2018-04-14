@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
+Inspired from [here](https://dribbble.com/shots/4202516-Movie-Booking-App).
+## Preview
+![Alt Text](https://media.giphy.com/media/dJHt7TwrAdTrjW9b00/giphy.gif)
+
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
 
 ## Table of Contents
